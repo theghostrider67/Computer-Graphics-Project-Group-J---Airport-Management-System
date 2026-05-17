@@ -29,7 +29,7 @@ bool isNight = false;      // Toggles night mode (dark sky, stars)
 bool isRaining = false;    // Toggles rain particle effect
 bool isSnowing = false;    // Toggles snow particle effect
 
-//  Sliding Text & Window State
+//  Sliding Text & Window State 
 float signScroll = 0.45f;  // Controls the horizontal scrolling position of the text on the tower
 int winW = 1200;           // Tracks current window width (needed for glScissor text clipping)
 int winH = 650;            // Tracks current window height (needed for glScissor text clipping)
